@@ -7,7 +7,7 @@ const Logo = () => (
     <div>
       <img src={logo} alt='logo' />
       <span>
-        <b>Taste</b>
+        <b>Manzar</b>
       </span>
     </div>
     <p>
