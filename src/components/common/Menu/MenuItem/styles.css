@@ -1,5 +1,5 @@
 .item {
-  width: 150px;
+  width: 200px;
   padding: 0 0.8rem 0.8rem 0.8rem;
   background-color: #fff;
   border-radius: 30px;
@@ -45,7 +45,7 @@
 }
 .head_desc-info {
   font-size: 0.8rem;
-  color: #a0a0a0;
+  color: #101010;
 }
 .foot_desc-price {
   font-weight: 700;
